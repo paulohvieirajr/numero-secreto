@@ -80,7 +80,7 @@ body::before {
     border: none;
     color: #1875E8;
     padding: 2rem;
-    font-size: 24px;
+    font-size: 26px;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
 }
@@ -92,7 +92,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
+    font-size: 68px;
     padding-bottom: 3rem;
 }
 
